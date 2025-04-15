@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Authority list of persons in Pollentia</title>
+            </titleStmt>
+            <publicationStmt><ab/></publicationStmt>
+            <sourceDesc><ab/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="commentary">
+                <listPerson type="rome">
+                    <head xml:lang="en">Persons at Pollentia</head>
+
+                    <person xml:id="HD041923_1">
+                        <persName xml:lang="la"><name type="cognomen">Optatus</name></persName>
+                    </person>
+
+                    <person xml:id="HD017624_1">
+                        <persName><name type="nomen">Iullus+</name><name type="cognomen">Antonius+</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD017624_2">
+                        <persName><name type="nomen">Fabius</name><name type="cognomen">Africanus</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD017624_3">
+                        <persName><name type="praenomen">M.</name><name type="cognomen">Crassus Frugi</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD017624_4" sex="M">
+                        <persName><name type="praenomen">C.</name><name type="nomen">Coelius</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD017624_5" sex="M">
+                        <persName><name type="praenomen">C.</name><name type="nomen">Caecilius</name></persName>
+                    </person>
+
+                    <person xml:id="HD041925_1">
+                        <persName><name type="praenomen">M.</name><name type="nomen">Aemilius</name><name type="cognomen">Lepidus</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041925_2">
+                        <persName><name type="praenomen">L.</name><name type="nomen">Arruntius*</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041925_3">
+                        <persName><name type="praenomen">M.</name><name type="nomen">Atilius</name><name type="cognomen">Vernus</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041925_4" sex="M">
+                        <persName><name type="praenomen">Q.</name><name type="nomen">Caecilius</name><name type="cognomen">Quinctus</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041925_5" sex="M">
+                        <persName><name type="praenomen">C.</name><name type="nomen">Valerius</name><name type="cognomen">Icesta</name></persName>
+                    </person>
+
+                    <person xml:id="HD041926_1">
+                        <persName><name type="praenomen">[-]</name><name type="nomen">[---]</name><name type="cognomen">[---]</name></persName>
+                    </person>
+
+                    <person xml:id="HD041931_1" sex="M">
+                        <persName><name type="praenomen">Q.+</name><name type="nomen">Caecilius+</name><name type="cognomen">Catullus+</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041931_2">
+                        <persName><name type="praenomen">L.+</name><name type="nomen">Flavius+</name><name type="cognomen">Damas+*</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041931_3">
+                        <persName><name type="nomen">Caecilia+</name><name type="cognomen">Zosima+</name></persName>
+                    </person>
+
+                    <person xml:id="HD041934_1">
+                        <persName><name type="praenomen">L.</name><name type="nomen">Dentilius</name><name type="cognomen">Modestus</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041934_2">
+                        <persName><name type="praenomen">L.</name><name type="nomen">Favonius</name><name type="cognomen">[---]tu[--]o</name></persName>
+                    </person>
+
+                    <person xml:id="HD041935_1" sex="M">
+                        <persName><name type="praenomen">L.</name><name type="nomen">Vibius</name><name type="cognomen">Nigellio</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041935_2">
+                        <persName><name type="nomen">Manlia</name><name type="cognomen">Fabiana</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041935_3">
+                        <persName><name type="nomen">Vibius</name><name type="cognomen">Manlianus</name></persName>
+                    </person>
+
+                    <person xml:id="HD041936_1">
+                        <persName><name type="praenomen">Q.</name><name type="nomen">Flavius</name><name type="cognomen">Ponticus</name></persName>
+                    </person>
+
+                    <person xml:id="HD041937_1">
+                        <persName><name type="nomen">Flavia</name><name type="cognomen">Paulina</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041937_2">
+                        <persName><name type="nomen">Flavia</name><name type="cognomen">Mamma</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041937_3">
+                        <persName><name type="praenomen">L.</name><name type="nomen">Flavius</name><name type="cognomen">Paulinus</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041937_4">
+                        <persName><name type="nomen">Flavius</name><name type="cognomen">Paulinus</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041937_5">
+                        <persName><name type="nomen">Flavius</name><name type="cognomen">Macrinus</name></persName>
+                    </person>
+
+                    <person xml:id="HD041940_1">
+                        <persName><name type="nomen">Cornelius*</name><name type="cognomen">Atticus</name><name type="supernomen">signo Pancrati</name></persName>
+                    </person>
+
+                    <person xml:id="HD041943_1">
+                        <persName><name type="praenomen">Q.</name><name type="nomen">Favonius</name><name type="cognomen">Pusinnus</name></persName>
+                    </person>
+
+                    <person xml:id="HD041946_1">
+                        <persName><name type="praenomen">[-]</name><name type="nomen">[---]</name><name type="cognomen">Cypris?</name></persName>
+                    </person>
+
+                    <person xml:id="HD041948_1">
+                        <persName><name type="cognomen">Maxima+?</name></persName>
+                    </person>
+                    
+                    <person xml:id="HD041948_2">
+                        <persName><name type="cognomen">Crescens+</name></persName>
+                    </person>
+
+                    ><person xml:id="HD041951_1" sex="M">
+                        <persName><name type="praenomen">P.+?</name><name type="nomen">Marcius+</name><name type="cognomen">Verus+?</name></persName>
+                    </person>
+
+                    <person xml:id="HD041952_1">
+                        <persName><name type="nomen">Caecilia+?</name><name type="cognomen">Maxima+?</name></persName>
+                    </person>
+
+                    <person xml:id="HD041955_1">
+                        <persName><name type="nomen">[---]</name><name type="cognomen">Dentilia+?</name></persName>
+                    </person>
+
+                    <person xml:id="HD041982_1">
+                        <persName><name type="cognomen">Arguta</name></persName>
+                    </person>
+
+                    <person xml:id="HD041983_1">
+                        <persName><name type="praenomen">C.</name><name type="nomen">Asinius</name></persName>
+                    </person>
+
+                    <person xml:id="HD041985_1">
+                        <persName><name type="praenomen">L.</name><name type="nomen">Flavius*</name><name type="cognomen">Apro</name></persName>
+                    </person>
+
+                    <person xml:id="HD042240_1">
+                        <persName><name type="nomen">[---]</name><name type="cognomen">[---]ce</name></persName>
+                    </person>
+
+                    <person xml:id="HD042241_1">
+                        <persName><name type="praenomen">[-]</name><name type="nomen">Manlius+?</name><name type="cognomen">[---]</name></persName>
+                    </person>
+
+                    <person xml:id="HD042242_1">
+                        <persName><name type="nomen">[---]lia</name><name type="cognomen">[---]</name></persName>
+                    </person>
+
+                </listPerson>
+
+                <revisionDesc><change when="2025-04-15" who="Minna-Loushe">added new authority list</change></revisionDesc>
+            </div>
+        </body>
+    </text>
+</TEI>
