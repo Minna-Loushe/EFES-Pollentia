@@ -12,9 +12,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="commentary">
-                <listPerson type="rome">
-                    <head xml:lang="en">Persons at Pollentia</head>
+                <listPerson>
 
                     <person xml:id="HD041923_1">
                         <persName xml:lang="la"><name type="cognomen">Optatus</name></persName>
@@ -177,9 +175,6 @@
                     </person>
 
                 </listPerson>
-
-                <revisionDesc><change when="2025-04-15" who="Minna-Loushe">added new authority list</change></revisionDesc>
-            </div>
         </body>
     </text>
 </TEI>

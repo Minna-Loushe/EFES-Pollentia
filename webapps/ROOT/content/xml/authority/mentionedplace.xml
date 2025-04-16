@@ -17,6 +17,13 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="bocchor">
+                    <placeName xml:lang="lat">Bocchoritana</placeName>
+                    <placeName xml:lang="en">Bocchor</placeName>
+                </place>
+
+
+
                 <place xml:id="apameia">
                     <placeName xml:lang="grc">Ἀπάμεια</placeName>
                     <placeName xml:lang="en">Pella</placeName>
