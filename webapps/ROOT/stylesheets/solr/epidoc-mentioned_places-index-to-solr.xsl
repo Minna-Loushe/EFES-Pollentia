@@ -25,7 +25,7 @@
           </field>
           <xsl:call-template name="field_file_path" />
           <field name="index_item_name">
-            <xsl:value-of select="@ref" />
+            <xsl:value-of select="substring-after(@ref,'#')"/>
           </field>
           <field name="index_item_type">
             <xsl:choose>
