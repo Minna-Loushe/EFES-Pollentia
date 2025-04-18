@@ -49,7 +49,10 @@
             </textClass>
             <particDesc><p><listPerson><person xml:id="HD017624_1"><persName><name type="nomen">Iullus+</name><name type="cognomen">Antonius+</name></persName></person><person xml:id="HD017624_2"><persName><name type="nomen">Fabius</name><name type="cognomen">Africanus</name></persName></person><person xml:id="HD017624_3"><persName><name type="praenomen">M.</name><name type="cognomen">Crassus Frugi</name></persName></person><person xml:id="HD017624_4" sex="M"><persName><name type="praenomen">C.</name><name type="nomen">Coelius</name></persName></person><person xml:id="HD017624_5" sex="M"><persName><name type="praenomen">C.</name><name type="nomen">Caecilius</name></persName></person></listPerson></p></particDesc>
         </profileDesc>
-        <revisionDesc><change when="2008-05-27" who="Garcia">checked with photo</change></revisionDesc>
+        <revisionDesc>
+            <change when="2008-05-27" who="Garcia">checked with photo</change>
+            <change when="2025-04-16" who="Minna-Loushe">tagged placeName for indexing</change>
+        </revisionDesc>
     </teiHeader>
     <facsimile><graphic url="#"/></facsimile>
     <text>
