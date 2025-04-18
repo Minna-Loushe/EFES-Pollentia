@@ -51,7 +51,9 @@
         </profileDesc>
         <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change></revisionDesc>
     </teiHeader>
-    <facsimile><graphic url="#"/></facsimile>
+    <facsimile>
+        <graphic url="CIBalear30.jpg"></graphic>
+    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>
