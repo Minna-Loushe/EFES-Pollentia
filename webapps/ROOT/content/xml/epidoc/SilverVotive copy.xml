@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Silver Votive Plaque - Pompeia Gaia Matrona <rs type="textType">Prayer for Justice, or Revenge?</rs></title>
+            </titleStmt>
+            <publicationStmt>
+                <authority></authority>
+                <idno type="filename"></idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Private Collection (unidentified) in California, USA</repository>
+                        <idno>not known</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support> <material>Silver</material>
+                                    <objectType>Votive Plaque, shaped as <title>tabula ansata</title></objectType><dimensions unit="cm"><width>11.5</width><height>6.7</height><depth>not given</depth></dimensions></support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Plaque 'heavily patinated and damaged' (Kotansky 2020 139) and extensively restored, in particular at top left and along the bottom, the latter filled.
+                                    Inscribed text fits neatly within the rectangular plaque (excluding the "handles"), justified to right and left using ivy leaves where necessary to maintain line length.
+                                    Letters engraved by stippling with a sharp stylus causing interlineal ridging. Final short line centred (not quite accurately) with space to either side. 
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> Regular lettering. Small ivy leaves at end of lines 2,5 to fill line. Large ivy leaves at beginning of lines 12,14 and inscribed on each <title>tabula ansata</title> handle. Ligature of ην in line 1. Vertical division line with dots marks new sentence in line 5.
+                                 τοὺς added later in small letters above line 8. Alpha has dropped bar, beta and rho bowls touch stem, lunate epsilon, phi circle flattened (heart shaped?), cursive omega.<height unit="cm"> Letter heights 0.15-0.40 cm (estimated from plaque height)</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Unknown (Asia Minor or Thrace - Kotansky)</origPlace>
+                            <origDate notBefore="0101" notAfter="0200" precision="low" evidence="lettering">Second century CE (Kotansky)/II s.p.C., <title>d'après l'écriture</title> (Sève et Feissel/Sève et Rousset)</origDate>
+                        </origin>
+                        <provenance type="found"> Provenance unknown (Asia Minor or Thrace - Kotansky)
+                        </provenance>
+                        <provenance type="observed"> 2006 San Francisco Fall Fair ancient silver exhibiion, now in private collection, California USA
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="photograph of text or monument"/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="gre">
+                <ab>
+                    <lb n="1"/><persName><name type="divine">Θε<unclear>ῷ</unclear></name><name type="divine"> <supplied reason="lost">Μεγά</supplied><supplied reason="undefined" evidence="previouseditor">λ</supplied>ῳ</name><rs type="religious"> Έπηκόῳ</rs></persName> ἀνεθέμ<hi rend="ligature">ην</hi>
+                    <lb n="2"/>dεξ<supplied reason="lost">ι</supplied>ὰ̣ν πρὸς τό τινάς με κατα<g ref="leaf"/>
+                    <lb break="no" n="3"/><choice><reg>λαλεῖν</reg><orig>λαλῖν</orig></choice> ώς ἐμοῦ τὸν ἐμὸν <choice><reg>σύμβι</reg><orig>σύνβι</orig></choice>
+                    <lb break="no" n="4"/>ον <choice><reg>ἀδικήσασαν</reg><orig>ἀδικήσαντα</orig></choice> φαρμάκου εἵνε
+                    <lb break="no" n="5"/>κεν <g ref="dot"/>|<g ref="dot"/> οὖν ἄρα ἐγὼ τοιοῦτον ἔ<g ref="leaf"/>
+                    <lb break="no" n="6"/>τι ἐνενοήθην ἢ ἔπαξα ἢ δι᾽ ἐ
+                    <lb break="no" n="7"/>μοῦ ἄλ<supplied reason="omitted">λ</supplied>ος τις <surplus>ο</surplus>, σχοίην πάντας
+                    <lb n="8"/>ὑμᾶς κεχολωμένους <add place="above">τοὺς</add> ἐπι<g ref="dot"/>φη
+                    <lb break="no" n="9"/>μιζόντάς με τοιαύτην. πα
+                    <lb break="no" n="10"/>ραδίδωμι δέ σοι τοὺς θρυλοῦν
+                    <lb break="no" n="11"/>τας με ἐπὶ τῇ τοιαύτῃ φημ<supplied reason="lost">ῃ</supplied>.
+                    <lb n="12"/><g ref="leaf"/> <persName><choice><reg><name type="gentilicium">Πομπηΐα</name></reg><orig><name type="gentilicium">Πονπηεία</name></orig></choice><name> Γα<g ref="dot"/>ΐ<g ref="dot"/>α</name><name type="cognomen"> Ματρώνα</name></persName> εἵν<supplied reason="lost">ε</supplied>
+                    <lb break="no" n="13"/>κεν <choice><reg>ἐκδικίας</reg><orig>ἐγδικίας</orig></choice> χάριν ἀνέθηκ<supplied reason="lost">α</supplied>.
+                    <lb n="14"/><g ref="leaf"/> <space quantity="2" unit="character"/> διεκ<surplus>ρ</surplus>ορ<unclear>κ</unclear>ῶ. <space quantity="9" unit="character"/>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>l.1 <supplied reason="lost">Μεγά</supplied><unclear>λ</unclear> (Kotansky 2020) but lambda should be straight sided and aligned at the bottom with following omega - I cannot discern it.</p>
+                <p>l.2 dεξ<supplied reason="lost">ι</supplied>ὰ̣ν (Kotansky 2020) See Figure 1 drawing (separate file): the space may be too large for iota alone, suggest possible alternate spelling dεξ<supplied reason="lost">ει</supplied>ὰ̣ν.</p>
+                <p>l.7 σχοίην amended to σχοίεν by Kotansky (2020), σχοίη<surplus>ν</surplus> Sève et Feissel (2020), <title>STET</title> (author).</p>
+                <p>l.8 <g ref="dot"/> not noted by Kotansky (2020) but very clear in the supplied photograph.</p>
+                <p>l.12 Γα<g ref="dot"/>ΐ<g ref="dot"/>α dots not noted by Kotansky (2020) but too clear to ignore? Ματρώνα or ματρώνα, both are possible (Kotansky 2020).</p>
+                <p>l.14 διεκ<surplus>ρ</surplus>ορ<unclear>κ</unclear>ῶ (Kotansky 2020) Διε<supplied reason="lost">ι</supplied> Κρο<surplus>ρ</surplus><unclear>ν</unclear><supplied reason="lost">ι</supplied>ῶ (Sève et Rousset 2021) and preferred by Sève et Feissel (2020).</p>
+            </div>
+            <div type="translation" xml:lang="en">
+                <p>To the Great Listening God I have offered up this pledge because there are those who slander me that I have done harm to my own husband through means of poison (or magic). |</p>
+                <p>So therefore if I have even considered such a thing in my mind or done it or through my agency any other has done it, may I face the anger of all of you speaking ill against me as such a person. </p>
+                <p>I hand over to You those who keep on making a noise against me with such a rumour.</p>
+                <p>Pompeia Gaia Matrona, for the sake of vengeance, I have set up this offering. I double swear by oath.</p>
+            </div>
+            <div type="commentary">
+                <p>I rely on Kotansky’s due diligence that this unprovenanced plaque entered a private collection prior to any legally significant dates. Kotansky thanks the owner for being allowed to publish ‘and for providing the excellent photographs’ (Kotansky 2020 139); 
+                if he has seen the plaque himself he does not say so. Researching the restorer I expected to find a museum quality operation but found only a homemade website (isisarts.net),
+                 giving us some pause over conclusions concerning the heavily restored areas.</p>
+                 <p>Finding the dimensions puzzling I traced the plaque (Figure 1) and calculate that at H 6.7cm the letter heights must be a maximum of 4mm and the interjected τους around 1mm in height. I find this challenging to believe but have no option except to do so.</p>
+                 <p>I used my tracing to assess the supplied letters as follows:</p>
+                 <p>l.1 For Kotansky’s underdotted lambda we need an extremely straight edged lambda (upside-down V not dipping below its adjacent letter) yet all the observable marks in this area could just be damage (Figure 3). Only the lambda is evidence for μεγαλῳ; 
+                    otherwise we could imagine other epithets for the god, perhaps μεγιστῳ or υψιστῳ (I will return to this). </p>
+                 <p>l.2 There is a larger gap than for an iota but I have no challenge to the word being some spelling of δεξιαν. </p>
+                 <p>ll.11-13 The supplied endings do not, in practice, line up with the neat right hand edge of the surviving text. We can imagine the use of <title>hedera</title> here. </p>
+                 <p>l.14 This has caused the most difficulty to editors with the caveat of it being in the restored/filled area. I have drawn both suggestions in Figure 1. Kotansky posits a misspelled διεξορκῶ, which he then has to admit is a <title>hapax legomenon</title> for an intensified version of εξορκόω (to bind by oath). 
+                    Sève et Rousset see a gap after ΔΙΕ and posit Διεί Κρο{ρ}νίῳ, an appealing suggestion of ‘to Zeus Kronios’ given that ἐπηκόῳ can be an epithet of Zeus. There is a gap after ΔΙΕ I agree but, conversely, I found it hard to fit ΝΙ into the space. 
+                    Would a Greek scribe misspell the most important god in his pantheon or would he misspell an unusual verb?</p>
+                 <p>There is something strange about ‘Πονπηεια’ (Figure 4), which I noticed when drawing it. Compared to the wonderfully spread out scribing of Ματρωνα the letters are smaller and do, to me, look as though they could have been added later. 
+                    In addition I see dots surrounding the ι of Γαΐα. These are mysteries I cannot solve but, noting the suggestion that the text is ‘somewhat formulaic’ (Kotansky 2020 153), perhaps there is a non zero possibility that only Pompeia was this lady’s actual name. </p>
+                 <p>Regarding the onomastics the Roman name Pompeia is derived from the father’s gens (Pompeius), placed first in female names, and Gaia is a female <title>praenomen</title> from Gaius; matrona or Matrona denotes a married woman or is a (very common) <title>cognomen</title> (Kajanto 1965). 
+                    Kotansky notes alternatives for Gaia: the Greek for ‘Earth’, or a freedwoman of Pompeius (Kotansky 2020).</p>
+                 <p>As a consequence of the text being well preserved the translation has been largely agreed upon by editors, with the exception of disagreements about l.14 as mentioned above. 
+                    In addition in l.7 Sève et Feissel’s choice of σχοίη{ν} makes the subject of this verb the invoked god and the translation <title>‘qu’il vous ait tous en sa colère, vous qui me diffamez comme telle’</title>. 
+                    At this same point Kotansky says a verb of handing over is to be understood, ‘whether [by] an error of omission or a case of elliptical writing is difficult to say’ (Kotansky 2020 152). 
+                    Chaniotis places an interpunct before σχοίην and translates ‘may I face the anger of all of you who speak against me as being such a person’, comparing it to a common funerary imprecation ‘εχοι τους θεους κεχολωμένους᾽ (Chaniotis 2023). 
+                    I find this the most compelling solution as there is no need to alter or supply a verb and it preserves the optative mood and first person singular of σχοίην.</p>
+                 <p>The terminology of ‘judicial prayer’ has been in use since Versnel identified texts that ‘cannot be understood if they are considered as <title>defixiones</title> in the traditional meaning of that term’ (Versnel 1991 60). 
+                    Categorising <title>defixiones</title> which flatter a god with a request for help as a result of an injustice Versnel allowed for a ‘border area’ which use verbs of binding and are addressed to chthonic deities, but also set up a new category of ‘prayers for justice’.</p>
+                 <p>Versnel also noted that ‘revenge prayers’ are mainly a request for retaliation or punishment (mentioning έκδικέω/<title>vindicare</title>) where the accused is handed over (κατατίθημι/παραδίδωμι/<title>commendare</title>) (Versnel 1991 80), but in ‘prayers for justice’ or the confession inscriptions 
+                    (from Maeonia and Phrygia) there is a greater focus on restitution or indemnity. Following this line of reasoning is this plaque not a ‘prayer for revenge’?</p>
+                 <p>All such categorisation is not without controversy. In 2009 Dreher challenged it, being critical of the imprecise language (interchanging prayers for justice/judicial prayers/prayers for legal help/juridical prayers) and arguing that ‘the more curse tablets are found, 
+                    the more diverse the phrasing and formulas will become’ (Dreher 2009 31). He proposed a return to calling them ‘pleas for justice and revenge’ and to admit that they are <title>defixiones</title>. This greatly upset Versnel (‘his enterprise is pointless and in fact a waste of time’ (Versnel 2009 36)).</p>
+                 <p>Dreher already knew about the <title>defixiones</title> found in Mainz (Blänsdorf 2010) and so did know that the line drawn between curse-tablets and ‘prayers for justice’ would indeed blur. More recently Urbanová statistically analysed the formulations of Latin tablet authors’ aims and wishes and concluded that 
+                    curses and ‘prayers for justice’ ‘are basically identical… [and] use similar means to afflict the victim or culprit’ (Urbanová 2018 425).</p>
+                 <p>Categorisation matters if our labelling leads to preconceptions about meaning. ‘Prayers for justice’ are thought of as having milder language than curses; authors are acting morally in defending themselves or seeking redress. Does εἵν[ε]κεν ἐγδικίας mean ‘for the sake of vindication’ (Kotansky), 
+                    with a sense of clearing suspicion? Does not ἐγδικίας mean vengeance? Kotansky notes that παραδίδωμι is sometimes found in <title>defixiones</title> (Kotansky 2020 153), but he cannot allow this to be a <title>defixio</title> because ‘judicial prayers’ are supposedly different.</p>
+                 <p>The lead tablets from Cnidus, found in the temple precinct of Demeter (all but one authored by women), are noted parallels. Two concern slander (Newton 1863, quoted in Gager 1992 189): tablet nos. 81 and 85. 85 includes ‘I hand over to Demeter and Kore the person who has accused me of preparing poisons/spells against my husband… 
+                    let him suffer afflictions with all of his family’. This tablet demonstrably has similarities to the plaque despite its much earlier date, an example of the much discussed similarities across time and space in the corpus of <title>defixiones</title> and evidence for a formulaic element.</p>
+                 <p>Whilst some ‘prayers for justice’ (for example those from Bath (Tomlin 1988)) clearly were not displayed publicly, the Cnidus examples may have been (it is debated). Faraone has suggested that such tablets could have been in dialogue with other tablets in the same sanctuary, imagining a process of conflict resolution (Faraone 2011). 
+                    This may help us to think about the motivation for the silver tablet and where it may have been placed, the use of valuable silver being of itself an offering to the temple deity. We should bear in mind that other forms of redress were not easily accessible to women.</p>
+                 <p>Searching for Θεῷ̣ [Μεγά][λ]ῳ ἐπηκόῳ Kotansky found only one comparable formula: μεγίστῳ ἐπηκόῳ Θεῷ̣ Σομενδε[ι] from Arykanda (<title>I.K. Arykanda 82</title>), Somendeus being a local mountain god. Arykanda was a wealthy city in the Roman period with rich Roman houses. If we allow μεγιστῳ or υψιστῳ in l.1 
+                    there are more examples in combination with ἐπηκόῳ, still statistically prevalent in Asia Minor and Thrace (eg SEG 29 686). But in truth the lack of provenance and detail concerning the findspot obscures the voice of Pompeia Gaia Matrona; we cannot confidently find her or her listening god, 
+                    or know how she chose to situate her plaque.</p>
+                
+            </div>
+            <div type="bibliography">
+
+                    <p><bibl><author>Audollent, A. </author> 1904 and 1967 <title>Defixionum Tabellae</title> (Minerva GmbH, Frankfurt/Main)</bibl></p>
+                    <p><bibl><author>Blänsdorf, J. </author>2010 "The <title>Defixiones</title> from the Sanctuary of Isis and Mater Magna in Mainz" in Gordon, R.L. and Marco Simón, F. (Editors) <title>Magical Practice in the Latin West</title> pp 141-190 (Brill, Leiden and Boston)</bibl></p>
+                    <p><bibl><author>Chaniotis, A. </author>2009 "From Woman to Woman: Female Voices and Emotions in Dedications to Goddesses" in Prêtre, C. (Editor) <title>Le donateur, l'offrande et la déesse</title> (KERNOS Supplément 23) pp 51-68</bibl></p>
+                    <p><bibl><author>Chaniotis, A. </author>2023 <title>Epigraphic Bulletin for Greek Religion 2020</title> 139 (KERNOS 36)</bibl></p>
+                    <p><bibl><author>Dreher, M. </author>2009 "'Prayers for Justice' and the Categorisation of Curse Tablets" in Piranomonte, M. and F. Marco Simón (Editors) <title>Atti del Convegno Internazionale: Contesti Magici, Contextos Mágicos</title> pp 29-32 (De Luca Editori D'Arte)</bibl></p>
+                    <p><bibl><author>Faraone, C.A. </author>2011 "Curses, crime detection and conflict resolution at the festival of Demeter Thesmophoros" <title>Journal of Helenic Studies 131</title> pp 25-44</bibl></p>
+                    <p><bibl><author>Gager, J.G. </author>1992 <title>Curse Tablets and Binding Spells from the Ancient World</title> (Oxford University Press - New York, Oxford)</bibl></p>
+                    <p><bibl><author>Jordan, D.R. </author>1999 "Three Curse Tablets" in Jordan, D.R., H. Montgomery and E. Thomassen (Editors) <title>The World of Ancient Magic</title> pp 115-124 (The Norwegian Institute at Athens)</bibl></p>
+                    <p><bibl><author>Kajanto, I. </author>1965 <title>The Latin Cognomina</title> (Societas Scientiarum Fennica. Helsinki - Helsingfors)</bibl></p>
+                    <p><bibl><author>Kotansky, R.D.</author> 2020 "A Silver Votive Plaque with a Judicial Prayer against Slander"<title> Greek, Roman, and Byzantine Studies 60</title> pp 139-157</bibl></p>
+                    <p><bibl><author>Lamont, J.L. </author> 2023 <title>In Blood and Ashes, Curse Tablets and Binding Spells in Ancient Greece</title> (Oxford University Press)</bibl></p>
+                    <p><bibl><author>Matthews, M. and Salvo, I. </author>2018 "Cursing-Prayers and Female Vengeance in the Ancient Greek World" in Dawson, L. and F. McHardy (Editors) <title>Revenge and Gender in Classical, Medieval and Renaissance Literature</title> pp 141-159 (Edinburgh University Press)</bibl></p>
+                    <p><bibl><author>McLean, B.H. </author>2002 <title>An Introduction to Greek Epigraphy of the Hellenistic and Roman Periods from Alexander the Great down to the Reign of Constantine (323 BC - AD 337)</title> (The University of Michigan Press, Ann Arbor)</bibl></p>
+                    <p><bibl><author>Newton, C.T. </author> 1863 <title>A History of Discoveries at Halicarnassus, Cnidus and Branchidae</title> (Day and Son, London)</bibl></p>
+                    <p><bibl><author>Sève, M. et Feissel, D.</author> 2020 <title>L'Année épigraphique</title> 1722</bibl></p>
+                    <p><bibl><author>Sève, M. et Rousset, D.</author> 2021 <title>Bulletin épigraphique</title> 142</bibl></p>
+                    <p><bibl><author>Strubbe, J.H.M. </author>1991 "'Cursed be he that moves my bones'" in Faraone, C.A. and D. Obbink (Editors) <title>Magika Hiera - Ancient Greek Magic and Religion</title> pp 33-59 (Oxford University Press - New York, Oxford)</bibl></p>
+                    <p><bibl><author>Tomlin, R.S.O. </author>1988 "The Curse Tablets" in Cunliffe, B. (Editor) <title>The Temple of Sulis Minerva at Bath, Vol 2, The Finds from the Sacred Spring</title> pp 59-277 (Oxford University Committee for Archaeology)</bibl></p>
+                    <p><bibl><author>Urbanová, D. </author>2018 <title>Latin Curse Tablets of the Roman Empire </title>(Universitas Masarykiana Brunensis - Innsbruck)</bibl></p>
+                    <p><bibl><author>Versnel, H.S. </author>1991 "Beyond Cursing: The Appeal to Justice in Judicial Prayers" in Faraone, C.A. and D. Obbink (Editors) <title>Magika Hiera - Ancient Greek Magic and Religion</title> pp 60-106 (Oxford University Press - New York, Oxford)</bibl></p>
+                    <p><bibl><author>Versnel, H.S. </author>2009 "Response to a Critique" in Piranomonte, M. and F. Marco Simón (Editors) <title>Atti del Convegno Internazionale: Contesti Magici, Contextos Mágicos</title> pp 33-46 (De Luca Editori D'Arte)</bibl></p>
+                      
+            </div>
+        </body>
+    </text>
+</TEI>
