@@ -49,7 +49,10 @@
             </textClass>
             <particDesc><p><listPerson><person xml:id="HD041940_1"><persName><name type="nomen">Cornelius*</name><name type="cognomen">Atticus</name><name type="supernomen">signo Pancrati</name></persName></person></listPerson></p></particDesc>
         </profileDesc>
-        <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change></revisionDesc>
+        <revisionDesc>
+            <change when="2008-06-05" who="Garcia">checked with photo</change>
+            <change when="2025-04-18" who="Minna-Loushe">added image to file</change>
+        </revisionDesc>
     </teiHeader>
     <facsimile>
         <graphic url="CIBalear30.jpg"></graphic>
