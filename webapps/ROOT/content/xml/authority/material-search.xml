@@ -17,6 +17,18 @@
                     <term xml:lang="ru">мрамор</term>
                     <term xml:lang="en">marble</term>
                 </item>
+
+                <item xml:id="ivory">
+                    <term xml:lang="es">hueso</term>
+                    <term xml:lang="en">ivory</term>
+                    <rs ref= "http://www.eagle-network.eu/voc/material/lod/120"></rs>
+                </item>
+
+
+
+
+
+
                 <item xml:id="m2">
                     <term xml:lang="ru">известняк</term>
                     <term xml:lang="en">limestone</term>
