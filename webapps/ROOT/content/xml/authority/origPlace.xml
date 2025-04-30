@@ -87,6 +87,23 @@
                         <idno type="pleiades"/>
                         <!--1 instance-->
                     </place>
+
+                    <place xml:id="pollentia">
+                        <placeName xml:lang="lat">res publica pollentina</placeName>
+                        <placeName xml:lang="en">Pollentia</placeName>
+                        <idno type="pleiades">http://pleiades.stoa.org/places/383745</idno>
+                    </place>   
+
+
+
+
+
+
+
+
+
+
+
                     <place xml:id="p007">
                         <placeName xml:lang="ru">Бакла</placeName>
                         <placeName xml:lang="en">Bakla</placeName>
