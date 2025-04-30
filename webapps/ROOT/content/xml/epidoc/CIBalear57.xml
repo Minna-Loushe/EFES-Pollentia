@@ -55,7 +55,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>
-                <gap reason="lost" extent="unknown" unit="character"/> Aprilis <gap reason="lost" extent="unknown" unit="character"/> Cart<expan><ex>h</ex><abbr>ago</abbr></expan> capta fuit <gap reason="lost" quantity="1" unit="line"/>
+                <gap reason="lost" extent="unknown" unit="character"/> Aprilis <gap reason="lost" extent="unknown" unit="character"/> <placeName ref="mentionedplace.xml#carthage"><expan><ex>h</ex><abbr>ago</abbr></expan></placeName> capta fuit <gap reason="lost" quantity="1" unit="line"/>
             </ab></div>
             <div type="commentary">
                 <p>Verschollen.</p>

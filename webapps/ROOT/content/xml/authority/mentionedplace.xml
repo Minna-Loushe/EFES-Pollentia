@@ -27,7 +27,10 @@
                     <placeName xml:lang="en">Pollentia</placeName>
                 </place>
 
-
+                <place xml:id="carthage">
+                    <placeName xml:lang="lat">cartago</placeName>
+                    <placeName xml:lang="en">Carthage</placeName>
+                </place>
 
 
                 <place xml:id="apameia">
