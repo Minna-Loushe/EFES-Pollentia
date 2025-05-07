@@ -29,7 +29,7 @@
                         <handDesc><handNote><dimensions><height unit="cm">5</height></dimensions></handNote></handDesc>
                     </physDesc>
                     <history>
-                        <origin><origPlace><placeName type="province">Hispania citerior</placeName><placeName type="ancient" ref="#"/></origPlace><origDate><origDate notBefore-custom="0101" notAfter-custom="0150" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">101 AD - 150 AD</origDate></origDate></origin>
+                        <origin><origPlace><placeName type="province">Hispania citerior</placeName><placeName type="ancient" ref="#"/></origPlace><origDate><origDate notBefore="0101" notAfter="0150" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">101 AD - 150 AD</origDate></origDate></origin>
                         <provenance type="found"><placeName type="country" ref="https://www.geonames.org/2510769">Spain</placeName><placeName type="modern">Alcudia</placeName><placeName type="findspot">Camp d'En França</placeName></provenance>
                     </history>
                 </msDesc>
