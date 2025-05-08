@@ -34,7 +34,7 @@
         </div>
 
         <div class="boxcontainer">
-          <span class="box"><a href="inscriptions/"><img class="imagebox" src="{$kiln:assets-path}/images/1.jpg" alt="Asb [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" /><span class="textbox"><i18n:text i18n:key="inscriptions">Iscrizioni</i18n:text></span></a></span>
+          <span class="box"><a href="inscriptions/"><img class="imagebox" src="images/1.jpg" alt="Asb [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" /><span class="textbox"><i18n:text i18n:key="inscriptions">Iscrizioni</i18n:text></span></a></span>
           
           
           <span class="box"><a href="texts/realta_politiche.html"><img class="imagebox" src="{$kiln:assets-path}/images/2.jpg" alt="Folger Shakespeare Library [Public domain or CC BY-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" /><span class="textbox"><i18n:text i18n:key="places">Realtà politiche</i18n:text></span></a></span>
