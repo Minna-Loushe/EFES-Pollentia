@@ -200,7 +200,7 @@
         <glyph xml:id="denarius">
             <charProp>
                 <localName>glyph-display</localName>
-                <value>&#55296;&#56726;</value>
+                <value>#55296 #56726</value>
             </charProp>
             <charProp>
                 <localName>text-display</localName>
