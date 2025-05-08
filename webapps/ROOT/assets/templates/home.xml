@@ -40,7 +40,7 @@
      <div class="row">
           <div class="large-4 columns">
             <div class="panel radius">
-              <p><img src="{$kiln:assets-path}/images/1.jpg"/></p>
+              <img src="{$kiln:assets-path}/images/1.jpg"/>
 
               <!--<p>Put your EpiDoc XML files in webapps/ROOT/content/xml/epidoc and go to the <a
               href="{kiln:url-for-match('local-admin-home-page', (), 0)}">admin</a> and index them for searching. Then see how
