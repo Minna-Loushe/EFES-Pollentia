@@ -34,22 +34,10 @@
         </div>
 
      <div class="row">
-      <div class="boxcontainer">
-                
-
-        <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/1.jpg" alt= "photo by author"/></span>
-
-        <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/2.jpg" alt= "photo by author"/></span>
-      </div></div>
+      
 
 
-
-
-
-
-
-
-          <!--<div class="large-4 columns">
+          <div class="large-4 columns">
             <div class="panel radius">
               <img class="imagebox" src="{$kiln:assets-path}/images/1.jpg"/>
 
