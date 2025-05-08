@@ -18,7 +18,7 @@
         <div class="large-12 columns text-center">
           <h1>
             <span class="round label">
-              <i18n:text i18n:key="home-title">Welcome to EFES!</i18n:text>
+              <i18n:text i18n:key="home-title">The Inscriptions of Pollentia, Mallorca</i18n:text>
             </span>
           </h1>
         </div>
@@ -29,11 +29,10 @@
       <main>
         <div class="row">
           <div class="small-6 large-centered columns">
-            <p>Now that you have EFES up and running, it's time to
-            start building your project. Start with one of the options
-            listed below and go from there.</p>
+            <p>A project based on the "Corpus de las Inscripciones Balearicas hasta la Dominacion Arabe" by Cristobal Veny, 1965</p>
           </div>
         </div>
+        
         <div class="row">
           <div class="large-4 columns">
             <div class="panel radius">
@@ -47,6 +46,7 @@
               href="{kiln:url-for-match('local-epidoc-index-display', ($language), 0)}">Inscriptions</a>).</p>
             </div>
           </div>
+
           <div class="large-4 columns">
             <div class="panel radius">
               <p><strong>Customise the templates</strong></p>
@@ -57,6 +57,7 @@
               base.xml.</p>
             </div>
           </div>
+          
           <div class="large-4 columns">
             <div class="panel radius">
               <p><strong>Read the documentation</strong></p>
@@ -70,6 +71,7 @@
             </div>
           </div>
         </div>
+      
       </main>
     </kiln:block>
   </kiln:child>
