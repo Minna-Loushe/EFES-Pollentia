@@ -28,12 +28,36 @@
     <kiln:block name="content-section">
       <main>
         <div class="row">
-          <div class="small-6 large-centered columns">
+          <div class="small-6 large-centered columns text-center">
             <p><strong>A project based on the "Corpus de las Inscripciones Balearicas hasta la Dominacion Arabe" by Cristobal Veny, 1965</strong></p>
           </div>
         </div>
-        
-        <div class="row">
+
+        <div class="boxcontainer">
+          <span class="box"><a href="inscriptions/"><img class="imagebox" src="{$kiln:assets-path}/images/1.jpg" alt="Asb [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" /><span class="textbox"><i18n:text i18n:key="inscriptions">Iscrizioni</i18n:text></span></a></span>
+          
+          
+          <span class="box"><a href="texts/realta_politiche.html"><img class="imagebox" src="{$kiln:assets-path}/images/2.jpg" alt="Folger Shakespeare Library [Public domain or CC BY-SA 4.0  (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" /><span class="textbox"><i18n:text i18n:key="places">Realtà politiche</i18n:text></span></a></span>
+         
+         
+          <span class="box"><a href="texts/istituzioni.html"><img class="imagebox" src="{$kiln:assets-path}/images/3.jpg" alt="L. Savignoni - G. De Sanctis, Esplorazione archeologica delle provincie occidentali di Creta, MonAnt 11, 1901, tav. XXVI, fig. 3" /><span class="textbox"><i18n:text i18n:key="institutions">Istituzioni</i18n:text></span></a></span>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+     <!--<div class="row">
           <div class="large-4 columns">
             <div class="panel radius">
               <p><strong>Add your files</strong></p>
@@ -70,7 +94,7 @@
               about your project.</p>
             </div>
           </div>
-        </div>
+        </div>-->
       
       </main>
     </kiln:block>
