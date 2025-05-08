@@ -88,7 +88,7 @@
             <div type="bibliography">
                 <listBibl><bibl>C. Veny, Corpus de las inscripciones baleáricas hasta la dominación árabe (Madrid 1965) 33-34, Nr. 20.</bibl><bibl>G. Alföldy, BJ 168, 1968, 550.</bibl><bibl/></listBibl>
                 <listBibl>
-                    <bibl n="L1">EDH<ptr target="bib:b0138"/>, <citedRange>HD041923</citedRange></bibl>
+                    <bibl n="L1">EDH<ptr target="bib:EDH"/>, <citedRange>HD041923</citedRange></bibl>
                 </listBibl>
             </div>
         </body>
