@@ -49,9 +49,16 @@
             </textClass>
             <particDesc><p><listPerson><person xml:id="HD041925_1"><persName><name type="praenomen">M.</name><name type="nomen">Aemilius</name><name type="cognomen">Lepidus</name></persName></person><person xml:id="HD041925_2"><persName><name type="praenomen">L.</name><name type="nomen">Arruntius*</name></persName></person><person xml:id="HD041925_3"><persName><name type="praenomen">M.</name><name type="nomen">Atilius</name><name type="cognomen">Vernus</name></persName></person><person xml:id="HD041925_4" sex="M"><persName><name type="praenomen">Q.</name><name type="nomen">Caecilius</name><name type="cognomen">Quinctus</name></persName></person><person xml:id="HD041925_5" sex="M"><persName><name type="praenomen">C.</name><name type="nomen">Valerius</name><name type="cognomen">Icesta</name></persName></person></listPerson></p></particDesc>
         </profileDesc>
-        <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change></revisionDesc>
+        <revisionDesc>
+            <change when="2008-06-05" who="Garcia">checked with photo</change>
+                <change when="2025-04-16" who="Minna-Loushe">tagged placeName for indexing</change>
+                <change when="2025-05-07" who="Minna-Louche">amended date format</change> 
+                <change when="2025-05-07" who="Minna-Louche">added image, source Veny</change>   
+            
+            
+            </revisionDesc>
     </teiHeader>
-    <facsimile><graphic url="#"/></facsimile>
+    <facsimile><graphic url="CIBalear22"/></facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>
