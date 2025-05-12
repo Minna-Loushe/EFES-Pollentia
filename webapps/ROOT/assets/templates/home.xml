@@ -35,7 +35,7 @@
 
         <div class="row text-center">
         <div class="boxcontainer text-center">
-          <div class="small-5 large-centred columns text-center">
+          <div class="small-6 large-centred columns text-center">
              <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/6.jpg"/></span>
         </div>
       </div>
@@ -44,10 +44,10 @@
    <div class="large-5 columns text-center">
             <div class="panel radius">
                <p><strong>CIBalear31</strong></p>
-                <p>Q FAVONIVS
-                PVSINNVS VIX
-                AN XXX SIT TIB
-                TER LEVIS</p>
+                <p><lb n="1"/>Q FAVONIVS
+                <lb n="2"/>PVSINNVS VIX
+                <lb n="3"/>AN XXX SIT TIB
+                <lb n="4"/>TER LEVIS</p>
 
                 <p>Quinto Favonio Pusinno vivió treinta años.
                 La tierra te sea ligera.</p>
