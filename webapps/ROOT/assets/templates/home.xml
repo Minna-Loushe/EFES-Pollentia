@@ -29,9 +29,18 @@
       <main>
         <div class="row">
           <div class="small-6 large-centered columns text-center">
-            <p><strong>A project based on the "Corpus de las Inscripciones Balearicas hasta la Dominacion Arabe" by Cristobal Veny, 1965</strong></p>
+            <p><strong>A project inspired by the "Corpus de las Inscripciones Balearicas hasta la Dominacion Arabe" by Cristobal Veny, 1965</strong></p>
           </div>
         </div>
+
+        <div class="boxcontainer">
+                
+
+          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/2.jpg"/></span>
+          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/3.jpg"/></span>
+        </div>
+
+
 
      <div class="row">
       
