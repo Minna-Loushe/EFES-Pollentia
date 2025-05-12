@@ -33,27 +33,39 @@
           </div>
         </div>
 
-        <div class="boxcontainer">
+        <div class="boxcontainer text-center">
           <div class="small-6 large-centred columns text-center">
-          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/2.jpg"/></span>
+          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/5.jpg"/></span>
           
         </div>
         </div>
 
 
 
-     <div class="row">
-     <div class="large-4 columns">
+     <div class="row text-center">
+     <div class="large-4 columns text-center">
             <div class="panel radius">
               <p><strong>CIBalear31</strong></p>
-              <p>Q FAVONIUS
+              <p>Q FAVONIVS
                 PVSINNVS VIX
                 AN XXX SIT TIB
-                TER LEVIS
+                TER LEVIS</p>
+
+                <p>Quinto Favonio Pusinno vivió treinta años.
+                La tierra te sea ligera.</p>
+
+                <p>Quintus Favonius Pusinnus lived 30 years.
+                May earth lie lightly upon you.
+
               </p>
             </div>
           </div>
-
+</div>
+         
+         
+         
+         <!--
+         
           <div class="large-4 columns">
             <div class="panel radius">
               <p><strong>CIBalear31</strong></p>
@@ -68,7 +80,7 @@
              <p>Quintus Favonius Pusinnus lived 30 years. May earth lie lightly upon you.</p>
             </div>
           </div>
-        </div>
+        </div>-->
       
       </main>
     </kiln:block>
