@@ -35,7 +35,7 @@
 
         <div class="row text-center">
         <div class="boxcontainer text-center">
-          <div class="small-6 large-centred columns text-center">
+          <div class="small-5 large-centred columns text-center">
             
           <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/6.jpg"/></span>
           
