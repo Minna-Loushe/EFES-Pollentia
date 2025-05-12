@@ -51,10 +51,10 @@
         </profileDesc>
         <revisionDesc>
             <change when="2008-06-06" who="Garcia">no image</change>
-            <change when="2025-05-07" who="Minna-Louche">amended date format</change>        
-            <change when="2025-05-08" who="Minna-Louche">added bilingual translation</change> 
-            <change when="2025-05-09" who="Minna-Louche">added bilingual commentary</change> 
-            <change when="2025-05-10" who="Minna-Louche">added bibliographic reference</change>    
+            <change when="2025-05-07" who="Minna-Loushe">amended date format</change>        
+            <change when="2025-05-08" who="Minna-Loushe">added bilingual translation</change> 
+            <change when="2025-05-09" who="Minna-Loushe">added bilingual commentary</change> 
+            <change when="2025-05-10" who="Minna-Loushe">added bibliographic reference</change>    
         </revisionDesc>
     </teiHeader>
     <facsimile><graphic url="#"/></facsimile>

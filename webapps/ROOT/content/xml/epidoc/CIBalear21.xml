@@ -52,8 +52,8 @@
         <revisionDesc>
             <change when="2008-05-27" who="Garcia">checked with photo</change>
             <change when="2025-04-16" who="Minna-Loushe">tagged placeName for indexing</change>
-            <change when="2025-05-07" who="Minna-Louche">amended date format</change> 
-            <change when="2025-05-07" who="Minna-Louche">added image, source Veny</change>   
+            <change when="2025-05-07" who="Minna-Loushe">amended date format</change> 
+            <change when="2025-05-07" who="Minna-Loushe">added image</change>   
         </revisionDesc>
     </teiHeader>
     <facsimile><graphic url="CIBalear21.jpg"></graphic></facsimile>
