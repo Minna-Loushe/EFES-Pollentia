@@ -28,13 +28,13 @@
     <kiln:block name="content-section">
       <main>
         <div class="row">
-          <div class="small-10 large-centered columns text-center">
+          <div class="small-6 large-centered columns text-center">
             <p><strong>A project inspired by the "Corpus de las Inscripciones Balearicas hasta la Dominacion Arabe" by Cristobal Veny, 1965</strong></p>
           </div>
         </div>
 
         <div class="boxcontainer text-center">
-          <div class="small-3 large-centred columns text-center">
+          <div class="small-8 large-centred columns text-center">
             <span class="box"><img class="imagebox"/></span>
           <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/6.jpg"/></span>
           
