@@ -35,15 +35,12 @@
 
         <div class="boxcontainer">
           <div class="small-6 large-centred columns text-center">
-          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/5.jpg"/></span>
-          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/6.jpg"/></span>
-          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/7.jpg"/></span>
-
-
+          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/2.jpg"/></span>
+          
         </div>
         </div>
 
-<!--
+
 
      <div class="row">
      <div class="large-4 columns">
@@ -71,7 +68,7 @@
              <p>Quintus Favonius Pusinnus lived 30 years. May earth lie lightly upon you.</p>
             </div>
           </div>
-        </div>-->
+        </div>
       
       </main>
     </kiln:block>
