@@ -37,7 +37,7 @@
           <div class="small-6 large-centred columns">
                 
 
-          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/2.jpg"/></span>
+        
           <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/3.jpg"/></span>
         </div>
         </div>
