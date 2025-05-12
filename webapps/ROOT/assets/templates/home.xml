@@ -41,50 +41,29 @@
           
         </div>
         </div>
+        </div>
 
 
 
     
      <div class="large-6 columns text-center">
             <div class="panel radius">
+              
               <p><strong>CIBalear31</strong></p>
-              <p>Q FAVONIVS
-                PVSINNVS VIX
-                AN XXX SIT TIB
+              <p>Q FAVONIVS</p>
+               <p> PVSINNVS VIX</p>
+                <p>AN XXX SIT TIB</p>
                 TER LEVIS</p>
 
                 <p>Quinto Favonio Pusinno vivió treinta años.
                 La tierra te sea ligera.</p>
 
                 <p>Quintus Favonius Pusinnus lived 30 years.
-                May earth lie lightly upon you.
+                May earth lie lightly upon you.</p></div></div>
 
-              </p>
-            </div>
-          </div>
-          </div>
-
-
-         
-         
-         
-         <!--
-         
-          <div class="large-4 columns">
-            <div class="panel radius">
-              <p><strong>CIBalear31</strong></p>
-             <p>Quinto Favonio Pusinno vivió treinta años. La tierra te sea ligera.
-              </p>
-            </div>
-          </div>
+              
+            
           
-          <div class="large-4 columns">
-            <div class="panel radius">
-              <p><strong>CIBalear31</strong></p>
-             <p>Quintus Favonius Pusinnus lived 30 years. May earth lie lightly upon you.</p>
-            </div>
-          </div>
-        </div>-->
       
       </main>
     </kiln:block>
