@@ -49,7 +49,10 @@
             </textClass>
             <particDesc><p><listPerson><person xml:id="HD041931_1" sex="M"><persName><name type="praenomen">Q.+</name><name type="nomen">Caecilius+</name><name type="cognomen">Catullus+</name></persName></person><person xml:id="HD041931_2"><persName><name type="praenomen">L.+</name><name type="nomen">Flavius+</name><name type="cognomen">Damas+*</name></persName></person><person xml:id="HD041931_3"><persName><name type="nomen">Caecilia+</name><name type="cognomen">Zosima+</name></persName></person></listPerson></p></particDesc>
         </profileDesc>
-        <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change></revisionDesc>
+        <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change>
+        
+            <change when="2025-05-07" who="Minna-Loushe">amended date format</change> 
+            </revisionDesc>
     </teiHeader>
     <facsimile><graphic url="#"/></facsimile>
     <text>

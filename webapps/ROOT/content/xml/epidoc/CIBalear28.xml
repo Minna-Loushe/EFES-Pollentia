@@ -29,7 +29,7 @@
                         <handDesc><ab/></handDesc>
                     </physDesc>
                     <history>
-                        <origin><origPlace><placeName type="province">Hispania citerior</placeName><placeName type="ancient" ref="https://pleiades.stoa.org/places/383745">Pollentia</placeName></origPlace><origDate><origDate notBefore-custom="0081" notAfter-custom="0150" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">81 AD - 150 AD</origDate></origDate></origin>
+                        <origin><origPlace><placeName type="province">Hispania citerior</placeName><placeName type="ancient" ref="https://pleiades.stoa.org/places/383745">Pollentia</placeName></origPlace><origDate><origDate notBefore="0081" notAfter="0150" datingMethod="http://en.wikipedia.org/wiki/Julian_calendar">81 AD - 150 AD</origDate></origDate></origin>
                         <provenance type="found"><placeName type="country" ref="https://www.geonames.org/2510769">Spain</placeName><placeName type="modern" ref="http://www.geonames.org/2512432">Pollensa</placeName><placeName type="findspot">Römische Mauer, Südlich</placeName></provenance>
                     </history>
                 </msDesc>
@@ -49,7 +49,9 @@
             </textClass>
             <particDesc><p><listPerson><person xml:id="HD041936_1"><persName><name type="praenomen">Q.</name><name type="nomen">Flavius</name><name type="cognomen">Ponticus</name></persName></person></listPerson></p></particDesc>
         </profileDesc>
-        <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change></revisionDesc>
+        <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change>
+            <change when="2025-05-07" who="Minna-Loushe">amended date format</change> 
+        </revisionDesc>
     </teiHeader>
     <facsimile><graphic url="#"/></facsimile>
     <text>

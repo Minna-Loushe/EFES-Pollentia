@@ -49,7 +49,10 @@
             </textClass>
             <particDesc><p/></particDesc>
         </profileDesc>
-        <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change></revisionDesc>
+        <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change>
+            <change when="2025-04-16" who="Minna-Loushe">tagged placeName for indexing</change>
+            <change when="2025-05-07" who="Minna-Loushe">amended date format</change> 
+        </revisionDesc>
     </teiHeader>
     <facsimile><graphic url="#"/></facsimile>
     <text>
