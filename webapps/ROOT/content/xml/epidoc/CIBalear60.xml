@@ -51,7 +51,9 @@
             </textClass>
             <particDesc><p/></particDesc>
         </profileDesc>
-        <revisionDesc><change when="2008-06-06" who="Garcia">provisional</change></revisionDesc>
+        <revisionDesc><change when="2008-06-06" who="Garcia">provisional</change>
+            <change when="2025-05-01" who="Minna-Loushe">marked up support material type</change>
+        </revisionDesc>
     </teiHeader>
     <facsimile><graphic url="#"/></facsimile>
     <text>
