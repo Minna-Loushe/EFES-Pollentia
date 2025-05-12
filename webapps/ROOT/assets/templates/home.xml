@@ -34,7 +34,7 @@
         </div>
 
         <div class="boxcontainer text-center">
-          <div class="small-6 large-centred columns text-center">
+          <div class="small-3 large-centred columns text-center">
             <span class="box"><img class="imagebox"/></span>
           <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/6.jpg"/></span>
           
@@ -62,6 +62,14 @@
             </div>
           </div>
 </div>
+<div class="boxcontainer text-center">
+  <div class="small-3 large-centred columns text-center">
+    <span class="box"><img class="imagebox"/></span>
+  <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/8.jpg"/></span>
+  
+</div>
+</div>
+
          
          
          
