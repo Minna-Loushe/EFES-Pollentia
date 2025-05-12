@@ -45,9 +45,9 @@
             <div class="panel radius">
                <p><strong>CIBalear31</strong></p>
                 <p><lb n="1"/>Q FAVONIVS
-                <lb n="2"/>PVSINNVS VIX
-                <lb n="3"/>AN XXX SIT TIB
-                <lb n="4"/>TER LEVIS</p>
+                <lb break="yes" n="2"/>PVSINNVS VIX
+                <lb break="yes" n="3"/>AN XXX SIT TIB
+                <lb break="yes" n="4"/>TER LEVIS</p>
 
                 <p>Quinto Favonio Pusinno vivió treinta años.
                 La tierra te sea ligera.</p>
