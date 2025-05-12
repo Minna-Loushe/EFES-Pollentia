@@ -36,12 +36,11 @@
         <div class="row text-center">
         <div class="boxcontainer text-center">
           <div class="small-5 large-centred columns text-center">
-            
-          <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/6.jpg"/></span>
-          
+             <span class="box"><img class="imagebox" src="{$kiln:assets-path}/images/6.jpg"/></span>
         </div>
-        </div>
-        </div>
+      </div>
+
+        
    <div class="large-5 columns text-center">
             <div class="panel radius">
                <p><strong>CIBalear31</strong></p>
@@ -56,7 +55,7 @@
                 <p>Quintus Favonius Pusinnus lived 30 years.
                 May earth lie lightly upon you.</p>
               </div>
-            </div>
+            </div></div>
 
               
       </main>
