@@ -51,9 +51,10 @@
         </profileDesc>
         <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change>
             <change when="2025-05-07" who="Minna-Loushe">amended date format</change> 
+            <change when="2025-05-12" who="Minna-Loushe">added image to file</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile><graphic xml:id="F015918" url="https://heidicon.ub.uni-heidelberg.de/api/v1/objects/uuid/0ae1f393-5c9b-4f82-b6ea-d9890f3813db/file/id/775496/file_version/name/small"/><graphic xml:id="F015919" url="https://heidicon.ub.uni-heidelberg.de/api/v1/objects/uuid/e5b64951-4f70-41d7-9044-ecc1142847f9/file/id/775497/file_version/name/small"/><graphic xml:id="F015920" url="https://heidicon.ub.uni-heidelberg.de/api/v1/objects/uuid/16bb74d8-acff-4021-b80c-de1110d8fb7e/file/id/775498/file_version/name/small"/></facsimile>
+    <facsimile><graphic url="CIBalear27.jpg"/></facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>

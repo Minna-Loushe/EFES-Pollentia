@@ -49,9 +49,11 @@
             </textClass>
             <particDesc><p><listPerson><person xml:id="HD041951_1" sex="M"><persName><name type="praenomen">P.+?</name><name type="nomen">Marcius+</name><name type="cognomen">Verus+?</name></persName></person></listPerson></p></particDesc>
         </profileDesc>
-        <revisionDesc><change when="2020-09-01" who="Garcia">checked with photo</change></revisionDesc>
+        <revisionDesc><change when="2020-09-01" who="Garcia">checked with photo</change>
+            <change when="2025-05-12" who="Minna-Loushe">added image to file</change>
+        </revisionDesc>
     </teiHeader>
-    <facsimile><graphic url="#"/></facsimile>
+    <facsimile><graphic url="CIBalear35.jpg"/></facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>

@@ -51,9 +51,10 @@
         </profileDesc>
         <revisionDesc><change when="2008-06-05" who="Garcia">checked with photo</change>
             <change when="2025-05-07" who="Minna-Loushe">amended date format</change> 
+            <change when="2025-05-12" who="Minna-Loushe">added image to file</change>
         </revisionDesc>
     </teiHeader>
-    <facsimile><graphic url="#"/></facsimile>
+    <facsimile><graphic url="CIBalear26.jpg"/></facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve"><head>Text</head><ab><lb n="1"/>
