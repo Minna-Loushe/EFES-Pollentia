@@ -61,7 +61,7 @@
                 <gap reason="lost" extent="unknown" unit="character"/>SI <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>CE <expan><abbr>a</abbr><ex cert="low">nnos</ex></expan> XXX <lb n="3"/><supplied reason="lost"><expan><abbr>h</abbr><ex>ic</ex></expan></supplied> <expan><abbr>s</abbr><ex cert="low">itus</ex></expan> <expan><abbr>e</abbr><ex>st</ex></expan>
             </ab></div>
             <div type="commentary">
-                <p/>
+                <p>TEST for HALLIE</p>
             </div>
             <div type="bibliography">
                 <listBibl><bibl>C. Veny, Corpus de las inscripciones baleáricas hasta la dominación árabe (Madrid 1965), 231-232, Nr. 196; lám. 50, 117 (Foto).</bibl><bibl/></listBibl>
